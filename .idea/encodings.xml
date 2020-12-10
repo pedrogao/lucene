@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/java/org/apache/lucene/analysis/standard/package.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/java/org/apache/lucene/queryParser/package.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/java/org/apache/lucene/search/package.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/java/org/apache/lucene/store/package.html" charset="UTF-8" />
+  </component>
+</project>
